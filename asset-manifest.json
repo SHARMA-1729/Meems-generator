@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.cae1fbc8.css",
-    "main.js": "/static/js/main.96411f7a.js",
-    "static/js/787.87b51da5.chunk.js": "/static/js/787.87b51da5.chunk.js",
-    "index.html": "/index.html",
-    "main.cae1fbc8.css.map": "/static/css/main.cae1fbc8.css.map",
-    "main.96411f7a.js.map": "/static/js/main.96411f7a.js.map",
-    "787.87b51da5.chunk.js.map": "/static/js/787.87b51da5.chunk.js.map"
+    "main.css": "/Meems-generator/static/css/main.cae1fbc8.css",
+    "main.js": "/Meems-generator/static/js/main.48d61ac7.js",
+    "static/js/787.87b51da5.chunk.js": "/Meems-generator/static/js/787.87b51da5.chunk.js",
+    "index.html": "/Meems-generator/index.html",
+    "main.cae1fbc8.css.map": "/Meems-generator/static/css/main.cae1fbc8.css.map",
+    "main.48d61ac7.js.map": "/Meems-generator/static/js/main.48d61ac7.js.map",
+    "787.87b51da5.chunk.js.map": "/Meems-generator/static/js/787.87b51da5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cae1fbc8.css",
-    "static/js/main.96411f7a.js"
+    "static/js/main.48d61ac7.js"
   ]
 }
