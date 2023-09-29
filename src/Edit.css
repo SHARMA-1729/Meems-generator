@@ -1,0 +1,28 @@
+.btn1
+{
+   background-color: aqua;
+   border-radius: 4px;
+   height: 40px;
+   font-weight: bold;
+   border: 2px solid #000000;
+   margin-top: 10px;
+}
+.btn2{
+    background-color: green;
+    border-radius: 4px;
+   height: 40px;
+   margin-left: 127px;
+   width: 90px;
+   color: aliceblue;
+   font-weight: bold;
+   border: 2px solid black;
+   margin-top: 10px;
+}
+.btn1:hover
+{
+    color: grey;
+}
+.btn2:hover
+{
+    color: black;
+}

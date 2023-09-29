@@ -1,0 +1,22 @@
+.card{
+   background-color: orange;
+
+}
+  
+.btn
+{
+    background-color: black;
+    border-radius: 4px;
+    height: 40px;
+    font-weight: bold;
+    border: 2px solid #000000;
+    margin-top: 10px;
+    width:90px;
+    color: white;
+}
+.btn:hover
+{
+    color: grey;
+    background-color: black;
+    
+}
