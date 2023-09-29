@@ -8,7 +8,7 @@ function App() {
     <div className="container" >
      <h1 style={{color:"red", fontWeight:"bold"}}>Meme Generator</h1>
      <Routes>
-    <Route path="https://SHARMA-1729.github.io/Meems-generator" element={<Mhome/>} />
+    <Route path="https://sharma-1729.github.io/Meems-generator/" element={<Mhome/>} />
     <Route path="/edit" element={<Medit/>}/>
      </Routes>
     </div>
